@@ -1,0 +1,491 @@
+@media (min-width:320px) and (max-width: 575.98px) {
+
+    .navbar-light .navbar-toggler {
+        color: rgba(0,0,0,.5);
+        border-color: none;
+    }
+    .navbar-toggler i {
+        font-size: 30px;
+        color: #fff;
+    }
+    .navbar-nav {
+        text-align: center;
+        background: #273438;
+        padding: 10px 0;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        line-height: 30px;
+    }
+    .navbar-light .navbar-nav .nav-link::after {
+        display: none;
+    }
+    #banner .banner-text h1 {
+        font-size: 40px;
+    }
+    #banner .banner-text h1 span {
+        font-size: 34px;
+    }
+    #about {
+        padding-top: 54px;
+    }
+    #about .about-content h4 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .about-content .button {
+        margin-bottom: 30px;
+    }
+    #about .counter-item {
+        margin-top: 20px;
+    }
+    #about .timeline-head h4 {
+        padding-top: 40px;
+    }
+    #about .timeline-head h4::after {
+        top: 78%;
+
+    }
+    #about .timeline {
+        margin-top: 31px;
+    }
+    #service {
+        padding-top: 58px;
+    }
+    #service .service-head h3 {
+        padding-bottom: 0;
+    }
+    #service .service-item-content h5 {
+        font-size: 24px;
+    }
+    #works {
+        padding-top: 57px;
+    }
+    #works .prot-head h3 {
+        padding-bottom: 0;
+    }
+    #testimonial {
+        padding-top: 55px;
+    }
+    #testimonial .slider-content p {
+        padding: 0 0;
+    }
+    #Client {
+        margin-top: 30px;
+    }
+    #pricing {
+        padding-top: 56px;
+    }
+    #pricing .price-item {
+        margin-top: 30px;
+    }
+    #pricing .price-item-2 {
+        margin-top: 30px;
+    }
+    #pricing .pricing-head h3 {
+        padding-bottom: 0;
+    }
+    #blog {
+        padding-top: 55px;
+    }
+    #blog .blog-head h3 {
+        padding-bottom: 0;
+    }
+    .card-title {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .card {
+        margin-top: 30px;
+    }
+    #contact {
+        padding-top: 56px;
+    }
+    #contact .contact-head h3 {
+        padding-bottom: 30px;
+    }
+    .contact-form {
+        padding: 30px 0;
+    }
+    #contact .cont-warp input {
+        width: 93%;
+        margin-bottom: 20px;
+    }
+    #contact .cont-warp textarea {
+        width: 93%;
+        margin-top: 4px;
+    }
+    #contact .bt_loging.cont-button {
+        margin-top: 30px;
+        margin-right: 9px;
+    }
+    #footer {
+        padding-top: 55px;
+    }
+    .rooter-warp-2 {
+        margin-top: 30px;
+    }
+    .wrap-2-text ul {
+        padding-top: 9px;
+    }
+    .wrap-2-head h4::after {
+        top: 49%;
+        left: 38%;
+    }
+    .wrap-2-text ul {
+        padding-top: 9px;
+        margin-bottom: 0;
+    }
+    .footer-warp-3 {
+        margin-top: 20px;
+        text-align: center;
+    }
+    .wrap-3-head h4::after {
+        top: 51%;
+        left: 16%;
+    }
+    .wrap-3-text {
+        padding-top: 11px;
+        margin-bottom: 15px;
+    }
+    .footer-copy p {
+        line-height: 24px;
+        padding: 5px 10px;
+    }
+}
+ @media(min-width:480px) and (max-width:575.98px){
+    .wrap-3-head h4::after {
+        top: 51%;
+        left: 30%;
+    }
+    .wrap-2-head h4::after {
+        top: 49%;
+        left: 43%;
+    }
+    #Client .Client-item img {
+        padding: 20px 0;
+        width: 51%;
+    }
+    #contact .cont-warp input {
+        width: 96%;
+        margin-bottom: 20px;
+    }
+    #contact .cont-warp textarea {
+        width: 96%;
+        margin-top: 4px;
+    }
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .navbar-light .navbar-toggler {
+        color: rgba(0,0,0,.5);
+        border-color: none;
+    }
+    .navbar-toggler i {
+        font-size: 30px;
+        color: #fff;
+    }
+    .navbar-nav {
+        text-align: center;
+        background: #273438;
+        padding: 10px 0;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        line-height: 30px;
+    }
+    .navbar-light .navbar-nav .nav-link::after {
+        display: none;
+    }
+    #banner .banner-text h1 {
+        font-size: 40px;
+    }
+    #banner .banner-text h1 span {
+        font-size: 34px;
+    }
+    #about {
+        padding-top: 54px;
+    }
+    #about .about-content h4 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .about-content .button {
+        margin-bottom: 30px;
+    }
+    #about .counter-item {
+        margin-top: 20px;
+    }
+    #about .timeline-head h4 {
+        padding-top: 40px;
+    }
+    #about .timeline-head h4::after {
+        top: 78%;
+
+    }
+    #about .timeline {
+        margin-top: 31px;
+    }
+    #service {
+        padding-top: 58px;
+    }
+    #service .service-head h3 {
+        padding-bottom: 0;
+    }
+    #service .service-item {
+        padding: 30px 20px;
+    }
+    #service .service-item-content h5 {
+        font-size: 21px;
+    }
+    #works {
+        padding-top: 57px;
+    }
+    #works .prot-head h3 {
+        padding-bottom: 0;
+    }
+    #testimonial {
+        padding-top: 55px;
+    }
+    #testimonial .slider-content p {
+        padding: 0 0;
+    }
+    #Client {
+        margin-top: 30px;
+    }
+    #pricing {
+        padding-top: 56px;
+    }
+    #pricing .price-item {
+        margin-top: 30px;
+    }
+    #pricing .price-item-2 {
+        margin-top: 30px;
+    }
+    #pricing .pricing-head h3 {
+        padding-bottom: 0;
+    }
+    #blog {
+        padding-top: 55px;
+    }
+    #blog .blog-head h3 {
+        padding-bottom: 0;
+    }
+    .card-title {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .card {
+        margin-top: 30px;
+    }
+    #contact {
+        padding-top: 56px;
+    }
+    .contact-form {
+        padding: 30px 0;
+    }
+    #contact .cont-warp input {
+        width: 96%;
+        margin-bottom: 20px;
+    }
+    #contact .cont-warp textarea {
+        width: 96%;
+        margin-top: 4px;
+    }
+    #contact .bt_loging.cont-button {
+        margin-top: 30px;
+        margin-right: 9px;
+    }
+    #footer {
+        padding-top: 55px;
+    }
+    .wrap-1-img img {
+        padding-bottom: 15px;
+    }
+    .footer-wrap-1 {
+        margin-bottom: 27px;
+    }
+    .rooter-warp-2 {
+        margin-top: 0;
+    }
+    .wrap-2-text ul {
+        padding-top: 9px;
+    }
+    .wrap-2-head h4 {
+        padding-bottom: 5px;
+    }
+    .wrap-2-head h4::after {
+        top: 49%;
+        left: 38%;
+    }
+    .wrap-2-text ul {
+        padding-top: 9px;
+        margin-bottom: 0;
+    }
+    .footer-warp-3 {
+        margin-top: 0;
+        text-align: center;
+    }
+    .wrap-3-head h4::after {
+        top: 51%;
+        left: 10%;
+    }
+    .wrap-3-text {
+        padding-top: 11px;
+        margin-bottom: 15px;
+    }
+    .footer-copy p {
+        line-height: 24px;
+        padding: 5px 10px;
+    }
+  
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+ 
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 14px;
+        padding: 0 9px;
+    }
+    #about {
+        padding-top: 73px;
+    }
+    #about .about-item {
+        margin-top: 21px;
+    }
+    #about .about-content h4 {
+        font-size: 21px;
+        line-height: 29px;
+    }
+    .about-content .button {
+        margin-bottom: 30px;
+    }
+    #about .counter-item {
+        margin-top: 18px;
+    }
+    #about .timeline-head h4 {
+        padding-top: 40px;
+    }
+    #about .timeline-head h4::after {
+        top: 74%;
+    }
+    #about .timeline {
+        margin-top: 30px;
+    }
+    #about .timeline-item h4 {
+        font-size: 20px;
+    }
+    #service {
+        padding-top: 75px;
+    }
+    #service .service-head h3 {
+        padding-bottom: 10px;
+    }
+    #service .service-item-content h5 {
+        font-size: 27px;
+    }
+    #works {
+        padding-top: 75px;
+    }
+    #works .prot-head h3 {
+        padding-bottom: 10px;
+    }
+    #testimonial {
+        padding-top: 74px;
+    }
+    #testimonial {
+        padding-top: 74px;
+    }
+    #Client {
+        margin-top: 52px;
+    }
+    #pricing {
+        padding-top: 75px;
+    }
+    #pricing .pricing-head h3 {
+        padding-bottom: 29px;
+    }
+    #blog {
+        padding-top: 78px;
+    }
+    #blog .blog-head h3 {
+        padding-bottom: 40px;
+    }
+    .card-title {
+        font-size: 15px;
+        line-height: 24px;
+    }
+    .card-text {
+        padding-top: 15px;
+    }
+    #contact {
+        padding-top: 75px;
+    }
+    #contact .cont-warp input {
+        width: 94%;
+        margin-bottom: 30px;
+    }
+    #contact .cont-warp textarea {
+        width: 94%;
+        margin-top: 5px;
+    }
+    #footer {
+        padding-top: 78px;
+    }
+    .wrap-2-head h4::after {
+        left: 40%;
+    }
+    .footer-warp-3 {
+        text-align: center;
+    }
+    .wrap-3-head h4::after {
+        left: 20%;
+    }
+    .wrap-1-img img {
+        padding-bottom: 17px;
+    }
+    .wrap-2-text ul {
+        padding-top: 14px;
+    }
+    .wrap-3-text {
+        padding-top: 11px;
+    }
+}
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    #about .about-content h4 {
+        font-size: 27px;
+        line-height: 35px;
+    }
+    #service .service-item-content h5 {
+        font-size: 24px;
+    }
+    #service .service-item {
+        padding: 30px 20px;
+    }
+    #works {
+        padding-top: 115px;
+    }
+    #Client {
+        margin-top: 89px;
+    }
+    #contact .cont-warp input {
+        width: 47%;
+        margin: 0 7px;
+    }
+    #footer {
+        padding-top: 116px;
+    }
+}
+
+@media (min-width: 1200px) {
+    #contact .cont-warp input {
+        margin: 0 8px;
+    }
+    #about .about-content h4 {
+        line-height: 32px;
+    }
+    
+}

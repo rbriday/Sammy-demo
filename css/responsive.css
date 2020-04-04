@@ -1,0 +1,770 @@
+@media (max-width: 575px){
+/*====================
+navbar-part start
+=====================  */
+
+nav .navbar-brand img {
+    margin-left: 10px;
+
+}
+
+nav button{
+    margin-right: 5px;
+}
+
+nav button:focus{
+    outline: 0;
+}
+
+nav ul{
+    background: #e0eeff;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+nav .purchase{
+    margin-left: 0;
+    margin-top: 20px;
+}
+
+nav ul li{
+    padding-top: 20px;
+}
+
+/*====================
+navbar-part end
+=====================  */
+
+/*====================
+unique-part start
+=====================  */
+#unique-part .uni{
+    font-size: 24px;
+}
+
+#unique-part h3{
+    font-size: 80px;
+}
+
+#unique-part .m-r{
+    margin-right: 0 !important;
+}
+
+
+#unique-part img{
+    width: 100%;
+}
+
+#unique-part .unique-text{
+    top: -28px;
+    right: 23px;
+}
+
+#unique-part .num{
+    font-size: 100px;
+}
+
+#unique-part .rot{
+    font-size: 25.1px;
+    margin-top: 20px;
+}
+
+#unique-part .img-item .overlay i{
+    width: 50px;
+    height: 50px;
+    font-size: 16px;
+    line-height: 43px;
+}
+
+#unique-part .unique-text.p2{
+    right: 17px;
+    top: -27px;
+}
+
+#unique-part .unique-text.p3{
+    right: 4px;
+    top: -26px;
+}
+
+#unique-part .rot4{
+    font-size: 21.5px;
+}
+
+#unique-part .unique-text.p4{
+    top: -27px;
+    right: 3px;
+}
+
+#unique-part .unique-text.p5{
+    top: -26px;
+    right: 0px;
+}
+
+#unique-part .unique-text.p6{
+    top: -27px;
+    right: 4px;
+}
+
+#unique-part .unique-text.p7 {
+    top: -27px;
+    right: 11px;
+}
+
+#unique-part .rot6{
+    font-size: 21.1px;
+    margin-top: 27px;
+}
+
+#unique-part .rot7{
+    font-size: 22.1px;
+    margin-top: 23px;
+}
+
+#unique-part .unique-text.p8 {
+    top: -27px;
+    right: 6px;
+}
+
+#unique-part .rot9 {
+    font-size: 14.1px;
+    margin-top: 61px;
+}
+
+#unique-part .unique-text.p9 {
+    top: -27px;
+    right: -8px;
+}
+
+#unique-part .unique-text.p10{
+    right: 16px;
+}
+
+/*====================
+unique-part end
+=====================  */
+
+/*====================
+service-part start
+=====================  */
+#service-part .service-item{
+    width: 295px;
+}
+
+#service-part .service-item .service-details{
+    margin-left: 10px;
+    font-size: 16px;
+}
+/*====================
+service-part end
+=====================  */
+
+/*====================
+support-part start
+=====================  */
+#support-part p{
+    width: 290px;
+    font-size: 14px;
+}
+/*====================
+support-part end
+=====================  */
+/*====================
+theme-part start
+=====================  */
+#theme-part .theme-item{
+    margin-right: 0;
+}
+
+#theme-part .theme-details p{
+    font-size: 23px;
+}
+
+/*====================
+theme-part end
+=====================  */
+
+/*====================
+footer-part start
+=====================  */
+#footer-part p{
+    font-size: 14px;
+    text-align: center;
+}
+
+#footer-part a{
+    font-size: 18px;
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+}
+
+/*====================
+footer-part end
+=====================  */
+}
+
+@media (min-width:576px) and (max-width:767px){
+    /*====================
+    navbar-part start
+    =====================  */
+    
+    nav .navbar-brand img {
+        margin-left: 10px;
+    
+    }
+    
+    nav button{
+        margin-right: 5px;
+    }
+    
+    nav button:focus{
+        outline: 0;
+    }
+    
+    nav ul{
+        background: #e0eeff;
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    
+    nav .purchase{
+        margin-left: 0;
+        margin-top: 20px;
+        width: 90%;
+        margin-left: 25px;
+    }
+    
+    nav ul li{
+        padding-top: 20px;
+    }
+    
+    /*====================
+    navbar-part end
+    =====================  */
+    
+    /*====================
+    unique-part start
+    =====================  */
+    #unique-part .uni{
+        font-size: 24px;
+    }
+    
+    #unique-part h3{
+        font-size: 80px;
+    }
+    
+    #unique-part .m-r{
+        margin-right: 0 !important;
+    }
+    
+    
+    #unique-part img{
+        width: 100%;
+    }
+    
+    #unique-part .unique-text{
+        top: -28px;
+        right: 23px;
+    }
+    
+    #unique-part .num{
+        font-size: 100px;
+    }
+    
+    #unique-part .rot{
+        font-size: 49.1px;
+        margin-top: 77px;
+    }
+    
+    #unique-part .img-item .overlay i{
+        width: 50px;
+        height: 50px;
+        font-size: 16px;
+        line-height: 43px;
+    }
+    
+    #unique-part .unique-text.p2{
+        right: 42px;
+        top: -27px;
+    }
+    
+    #unique-part .unique-text.p3{
+        right: -5px;
+        top: -26px;
+    }
+    
+    #unique-part .rot4{
+        font-size: 42.5px;
+        margin-top: 88px;
+    }
+    
+    #unique-part .unique-text.p4{
+        top: -27px;
+        right: -10px;
+    }
+    
+    #unique-part .unique-text.p5{
+        top: -26px;
+        right: -10px;
+    }
+    
+    #unique-part .unique-text.p6{
+        top: -27px;
+        right: 4px;
+    }
+    
+    #unique-part .unique-text.p7 {
+        top: -27px;
+        right: -4px;
+    }
+    
+    #unique-part .rot6{
+        font-size: 39.1px;
+        margin-top: 88px;
+    }
+    
+    #unique-part .rot7{
+        font-size: 45.1px;
+        margin-top: 92px;
+    }
+    
+    #unique-part .unique-text.p8 {
+        top: -27px;
+        right: 6px;
+    }
+    
+    #unique-part .rot9 {
+        font-size: 25.1px;
+        margin-top: 123px;
+    }
+    
+    #unique-part .unique-text.p9 {
+        top: -27px;
+        right: -8px;
+    }
+    
+    #unique-part .unique-text.p10{
+        right: 16px;
+    }
+    
+    /*====================
+    unique-part end
+    =====================  */
+    
+    /*====================
+    service-part start
+    =====================  */
+    #service-part .service-item{
+        width: 515px;
+    }
+    
+    /*====================
+    service-part end
+    =====================  */
+    
+    /*====================
+    support-part start
+    =====================  */
+    #support-part p{
+        width: 500px;
+        font-size: 14px;
+    }
+    /*====================
+    support-part end
+    =====================  */
+    /*====================
+    theme-part start
+    =====================  */
+    #theme-part .theme-item{
+        margin-right: 0;
+    }
+    
+    #theme-part .theme-details p{
+        font-size: 23px;
+    }
+
+    #theme-part .pre{
+        left: -25px;
+        z-index: 22;
+    }
+
+    #theme-part .nxt{
+        right: -24px;
+    }
+    
+    /*====================
+    theme-part end
+    =====================  */
+    
+    /*====================
+    footer-part start
+    =====================  */
+    #footer-part p{
+        font-size: 14px;
+        text-align: center;
+    }
+    
+    #footer-part a{
+        font-size: 18px;
+        display: block;
+        text-align: center;
+        margin-top: 10px;
+    }
+    
+    /*====================
+    footer-part end
+    =====================  */
+    }
+
+
+    
+
+    @media (min-width:768px) and (max-width:991px){
+        /*====================
+        navbar-part start
+        =====================  */
+        
+        nav .navbar-brand img {
+            margin-left: 10px;
+        
+        }
+        
+        nav button{
+            margin-right: 5px;
+        }
+        
+        nav button:focus{
+            outline: 0;
+        }
+        
+        nav ul{
+            background: #e0eeff;
+            text-align: center;
+            padding-bottom: 20px;
+        }
+        
+        nav .purchase{
+            margin-left: 0;
+            margin-top: 20px;
+            width: 90%;
+            margin-left: 25px;
+        }
+        
+        nav ul li{
+            padding-top: 20px;
+        }
+        
+        /*====================
+        navbar-part end
+        =====================  */
+
+   /*====================
+unique-part start
+=====================  */
+#unique-part .uni{
+    font-size: 24px;
+}
+
+#unique-part h3{
+    font-size: 80px;
+}
+
+#unique-part .m-r{
+    margin-right: 0 !important;
+}
+
+
+#unique-part img{
+    width: 100%;
+}
+
+#unique-part .unique-text{
+    top: -28px;
+    right: 23px;
+}
+
+#unique-part .num{
+    font-size: 100px;
+}
+
+#unique-part .rot{
+    font-size: 25.1px;
+    margin-top: 20px;
+}
+
+#unique-part .img-item .overlay i{
+    width: 50px;
+    height: 50px;
+    font-size: 16px;
+    line-height: 43px;
+}
+
+#unique-part .unique-text.p2{
+    right: 17px;
+    top: -27px;
+}
+
+#unique-part .unique-text.p3{
+    right: 4px;
+    top: -26px;
+}
+
+#unique-part .rot4{
+    font-size: 21.5px;
+}
+
+#unique-part .unique-text.p4{
+    top: -27px;
+    right: 3px;
+}
+
+#unique-part .unique-text.p5{
+    top: -26px;
+    right: 0px;
+}
+
+#unique-part .unique-text.p6{
+    top: -27px;
+    right: 4px;
+}
+
+#unique-part .unique-text.p7 {
+    top: -27px;
+    right: 11px;
+}
+
+#unique-part .rot6{
+    font-size: 21.1px;
+    margin-top: 27px;
+}
+
+#unique-part .rot7{
+    font-size: 22.1px;
+    margin-top: 23px;
+}
+
+#unique-part .unique-text.p8 {
+    top: -27px;
+    right: 6px;
+}
+
+#unique-part .rot9 {
+    font-size: 14.1px;
+    margin-top: 61px;
+}
+
+#unique-part .unique-text.p9 {
+    top: -27px;
+    right: -8px;
+}
+
+#unique-part .unique-text.p10{
+    right: 16px;
+}
+
+/*====================
+unique-part end
+=====================  */
+
+/*====================
+service-part start
+=====================  */
+#service-part .service-item{
+    width: 340px;
+}
+
+#service-part .service-item .service-details{
+    margin-left: 19px;
+    font-size: 19px;
+}
+/*====================
+service-part end
+=====================  */
+
+/*====================
+support-part start
+=====================  */
+#support-part p{
+    width: 640px;
+}
+
+
+/*====================
+support-part end
+=====================  */
+
+/*====================
+theme-part start
+=====================  */
+#theme-part .slick-list{
+    margin-left: 16px;
+}
+
+#theme-part .pre{
+    left: -14px;
+    z-index: 22;
+}
+
+#theme-part .nxt{
+    right: 0;
+}
+/*====================
+theme-part end
+=====================  */
+
+    }
+
+    @media (min-width:992px) and (max-width:1199px){
+         /*====================
+        navbar-part start
+        =====================  */
+        nav .purchase{
+            margin-left: 0;
+        }
+         /*====================
+        navbar-part end
+        =====================  */
+  /*====================
+    unique-part start
+    =====================  */
+    #unique-part .uni{
+        font-size: 24px;
+    }
+    
+    #unique-part h3{
+        font-size: 80px;
+    }
+    
+    #unique-part .m-r{
+        margin-right: 0 !important;
+    }
+    
+    
+    #unique-part img{
+        width: 100%;
+    }
+    
+    #unique-part .unique-text{
+        top: -28px;
+        right: 23px;
+    }
+    
+    #unique-part .num{
+        font-size: 100px;
+    }
+    
+    #unique-part .rot{
+        font-size: 49.1px;
+        margin-top: 77px;
+    }
+    
+    #unique-part .img-item .overlay i{
+        width: 50px;
+        height: 50px;
+        font-size: 16px;
+        line-height: 43px;
+    }
+    
+    #unique-part .unique-text.p2{
+        right: 42px;
+        top: -27px;
+    }
+    
+    #unique-part .unique-text.p3{
+        right: -5px;
+        top: -26px;
+    }
+    
+    #unique-part .rot4{
+        font-size: 42.5px;
+        margin-top: 88px;
+    }
+    
+    #unique-part .unique-text.p4{
+        top: -27px;
+        right: -10px;
+    }
+    
+    #unique-part .unique-text.p5{
+        top: -26px;
+        right: -10px;
+    }
+    
+    #unique-part .unique-text.p6{
+        top: -27px;
+        right: 4px;
+    }
+    
+    #unique-part .unique-text.p7 {
+        top: -27px;
+        right: -4px;
+    }
+    
+    #unique-part .rot6{
+        font-size: 39.1px;
+        margin-top: 88px;
+    }
+    
+    #unique-part .rot7{
+        font-size: 45.1px;
+        margin-top: 92px;
+    }
+    
+    #unique-part .unique-text.p8 {
+        top: -27px;
+        right: 6px;
+    }
+    
+    #unique-part .rot9 {
+        font-size: 25.1px;
+        margin-top: 123px;
+    }
+    
+    #unique-part .unique-text.p9 {
+        top: -27px;
+        right: -8px;
+    }
+    
+    #unique-part .unique-text.p10{
+        right: 16px;
+    }
+    
+    /*====================
+    unique-part end
+    =====================  */
+
+    /*====================
+    service-part start
+    =====================  */
+    #service-part .service-item{
+        width: 465px;
+    }
+
+    #service-part .service-item .service-details{
+        margin-left: 22px;
+    }
+
+    /*====================
+    service-part end
+    =====================  */
+
+    /*====================
+theme-part start
+=====================  */
+#theme-part .slick-list{
+    margin-left: 16px;
+}
+
+#theme-part .pre{
+    left: -14px;
+    z-index: 22;
+}
+
+#theme-part .nxt{
+    right: 0;
+}
+/*====================
+theme-part end
+=====================  */
+
+    }
